@@ -1,5 +1,5 @@
 ## Privacy Policy
-This Privacy Policy contains the data Lyricly collects and what its used for.
+This Privacy Policy contains the data Moosic collects and what its used for.
 ### What We Collect
 - User IDs: Used to store profiles, voting rewards and premium/pro features.
 - Server IDs: Used to store server options such as custom prefixes, and ignored channels.
